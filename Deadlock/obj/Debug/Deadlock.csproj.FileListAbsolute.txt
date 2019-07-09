@@ -1,0 +1,7 @@
+C:\Users\Nemanja Djordjevic\source\repos\MultithreadingTutorial\Deadlock\bin\Debug\Deadlock.exe.config
+C:\Users\Nemanja Djordjevic\source\repos\MultithreadingTutorial\Deadlock\bin\Debug\Deadlock.exe
+C:\Users\Nemanja Djordjevic\source\repos\MultithreadingTutorial\Deadlock\bin\Debug\Deadlock.pdb
+C:\Users\Nemanja Djordjevic\source\repos\MultithreadingTutorial\Deadlock\obj\Debug\Deadlock.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja Djordjevic\source\repos\MultithreadingTutorial\Deadlock\obj\Debug\Deadlock.exe
+C:\Users\Nemanja Djordjevic\source\repos\MultithreadingTutorial\Deadlock\obj\Debug\Deadlock.pdb
+C:\Users\Nemanja Djordjevic\source\repos\MultithreadingTutorial\Deadlock\obj\Debug\Deadlock.csprojAssemblyReference.cache

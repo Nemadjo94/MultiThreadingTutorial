@@ -1,0 +1,3 @@
+﻿Problem konkurentnosti
+Kada zapocinjemo vise niti koji pristupaju istom podatku, nas program mora da obezbedi
+da je taj podatak zasticen od mogucnosti da druge niti promene njegovu vrednost

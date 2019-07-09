@@ -1,0 +1,5 @@
+﻿Sinhronizacija
+Probleme koje imamo sa vise niti kao sto su Race Condition ili Deadlock
+mogu se zaobici koriscenjem sinhronizacije. Ovo nazalost nije uvek moguce.
+Ako ne mozemo izbeci data sharing onda moramo koristiti sinhronizaciju tako
+da samo jedna nit u jedno vreme moze pristupiti i promeniti stanje

@@ -1,0 +1,12 @@
+﻿Race condition se pojavljuje ako dve ili vise niti pristupaju istom objektu
+i ako pristup shared stanju nije sinhronizovan.
+U ovom primeru aplikacije predstavicemo ovaj problem.
+
+Nakon kompajliranja programa glavna nit proizvodi 5 sekundarnih niti
+I svakom od tih niti smo rekli da pozove Calculate metodu
+Zbog toga sve niti u isto vreme pokrecu istu metodu a posto nismo zakljucali 
+objekat za deljenje resorsa dobijamo Race Condition i na izlazu vidimo nepredvidive rezultate
+
+Problem Race Condition-a resavamo dodavanjem lock-a u Calculate metodi
+Lock-om sinhronizujemo pristup metodi tako da sledece niti nemogu ometi trenutnu nit,
+to u sustini znaci da se niti izvrsavaju u redu ne ometajuci jedna drugu

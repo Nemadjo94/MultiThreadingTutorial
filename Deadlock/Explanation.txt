@@ -1,0 +1,10 @@
+﻿Previse lock-ovanja u aplikaciju moze da izazove deadlock
+U deadlock-u minimum dve niti cekaju jedna na drugu da otpuste lock
+Dok obe niti cekaju jedna na drugu, deadlock situacija se desava i niti
+cekaju beskonacno i program zabada.
+
+U ovoj aplikaciji obe metode su promenile stanje objekta obj1 i obj2 tako sto ih zakljucale
+Metoda DeadLock1 je prva zakljucala obj1 i posle obj2 a metod DeadLock2 prvo zakljucava
+obj2 a posle obj1. Tako da se lock za obj1 oslobadja i sledeca promena niti se dogadja
+i druga metoda pocinje i zakljucava obj2. Druga nit sada ceka na otkljucavanje obj1.
+Sada obe niti stoje i cekaju jedna na drugu. Tipicna deadlock situacija

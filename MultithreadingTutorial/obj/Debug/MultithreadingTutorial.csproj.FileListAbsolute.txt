@@ -1,0 +1,7 @@
+C:\Users\Nemanja Djordjevic\source\repos\MultithreadingTutorial\MultithreadingTutorial\bin\Debug\MultithreadingTutorial.exe.config
+C:\Users\Nemanja Djordjevic\source\repos\MultithreadingTutorial\MultithreadingTutorial\bin\Debug\MultithreadingTutorial.exe
+C:\Users\Nemanja Djordjevic\source\repos\MultithreadingTutorial\MultithreadingTutorial\bin\Debug\MultithreadingTutorial.pdb
+C:\Users\Nemanja Djordjevic\source\repos\MultithreadingTutorial\MultithreadingTutorial\obj\Debug\MultithreadingTutorial.csprojAssemblyReference.cache
+C:\Users\Nemanja Djordjevic\source\repos\MultithreadingTutorial\MultithreadingTutorial\obj\Debug\MultithreadingTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja Djordjevic\source\repos\MultithreadingTutorial\MultithreadingTutorial\obj\Debug\MultithreadingTutorial.exe
+C:\Users\Nemanja Djordjevic\source\repos\MultithreadingTutorial\MultithreadingTutorial\obj\Debug\MultithreadingTutorial.pdb
